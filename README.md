@@ -4,7 +4,7 @@ Repo for the `GitHub Actions Fundamentals` training.
 Adding changes to test skip CI
 
 ## 👉 Objectives
-
+Adding Feature1
 - Understand the __basic components__ and vocabulary of GitHub Actions
 - Understand the __YAML__ syntax (scalar types, quotes, literal blocks, maps, and sequences)
 - Understand the __workflow syntax__ and how to write workflows using intellisense
