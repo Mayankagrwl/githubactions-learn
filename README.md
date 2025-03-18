@@ -1,7 +1,7 @@
 # GitHub Actions Fundamentals
  
 Repo for the `GitHub Actions Fundamentals` training.
-Adding changes
+Adding changes to test skip CI
 
 ## 👉 Objectives
 
