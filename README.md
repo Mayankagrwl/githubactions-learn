@@ -1,5 +1,6 @@
 # GitHub Actions Fundamentals
- 
+
+ date: 19th March
 Repo for the `GitHub Actions Fundamentals` training.
 Adding changes to test skip CI
 
