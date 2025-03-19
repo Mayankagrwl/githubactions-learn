@@ -3,6 +3,8 @@
 Repo for the `GitHub Actions Fundamentals` training.
 Adding changes to test skip CI
 
+Adding tests
+
 ## 👉 Objectives
 Adding Feature1
 - Understand the __basic components__ and vocabulary of GitHub Actions
